@@ -1,0 +1,26 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavlenkoSergey/nodejs-hw1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "calculator"
+  ],
+  "author": "Sergey Pavlenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavlenkoSergey/nodejs-hw1/issues"
+  },
+  "homepage": "https://github.com/PavlenkoSergey/nodejs-hw1#readme",
+  "dependencies": {
+    "mathjs": "^9.2.0"
+  }
+}
